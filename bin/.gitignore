@@ -1,0 +1,8 @@
+.vscode/
+bin/
+build/
+data/
+*.o
+likutacoin
+*.log
+*.tmp
